@@ -1,0 +1,9 @@
+customtkinter
+opencv-python
+mediapipe
+tensorflow
+numpy
+pyttsx3
+Pillow
+speechrecognition
+pyaudio
