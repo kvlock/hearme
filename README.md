@@ -1,6 +1,6 @@
 # HearMe Sign Language App
 
-Sign Language Detection App Using TensorFlow and OpenCV
+Sign Language Detection App Using Python, TensorFlow and OpenCV
 
 ---
 
